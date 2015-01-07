@@ -1,3 +1,5 @@
+**Sorry, doesn't work anymore.**
+
 CoreTelephonyIMEI
 =================
 
